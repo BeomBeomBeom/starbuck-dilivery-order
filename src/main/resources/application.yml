@@ -67,7 +67,7 @@ management:
   endpoint:
     shutdown:
       enabled: true
- endpoints:
+  endpoints:
     web:
       exposure:
         include: "*"
